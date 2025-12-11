@@ -1,5 +1,4 @@
 # Ignorar arquivos compilados e binários
-bin/
 __pycache__/
 *.pyc
 
